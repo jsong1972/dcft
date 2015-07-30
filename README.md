@@ -33,3 +33,6 @@ To run the coordinator
   
 To run the client
   - java -cp build/libs/dcft-1.0.0.jar com.logicmonitor.research.dcft.client.Main $clientId
+
+# Tags
+distributed, concurrency, fault tolerance, jdk executor, netty, google protocol buffer, dcft
